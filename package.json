@@ -1,0 +1,25 @@
+{
+  "name": "229029_eklavyaghodake",
+  "version": "1.0.0",
+  "description": "sdm end module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eklavya-San/229029_EklavyaGhodake.git"
+  },
+  "author": "eklavya ghodake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eklavya-San/229029_EklavyaGhodake/issues"
+  },
+  "homepage": "https://github.com/Eklavya-San/229029_EklavyaGhodake#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.3.0",
+    "nodemon": "^2.0.20"
+  }
+}
